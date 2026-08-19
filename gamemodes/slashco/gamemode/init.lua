@@ -1,3 +1,5 @@
+g_SlashCoDebug = true
+
 AddCSLuaFile("cl_init.lua")
 AddCSLuaFile("sh_shared.lua")
 
